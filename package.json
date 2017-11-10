@@ -1,0 +1,24 @@
+{
+  "name": "free-training-sass-gulp",
+  "version": "1.0.0",
+  "description": "This training is for:   __Introduction to using Gulp & SASS with WordPress__",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheWPCrowd/free-training-sass-gulp.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/TheWPCrowd/free-training-sass-gulp/issues"
+  },
+  "homepage": "https://github.com/TheWPCrowd/free-training-sass-gulp#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11"
+  }
+}
